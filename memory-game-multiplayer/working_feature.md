@@ -1,0 +1,1 @@
+Implemented multiplayer system by adding references for both players, their scores, and the turn info, necessary methods such as switchTurn(), and resolving a new issue with the timer.

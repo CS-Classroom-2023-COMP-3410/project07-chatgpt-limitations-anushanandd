@@ -1,0 +1,1 @@
+Made the game responsive by removing and replacing several css lines that restricted the shape of the grid. Also needed to remove a line from the js file that moved the game container down after the game had started.

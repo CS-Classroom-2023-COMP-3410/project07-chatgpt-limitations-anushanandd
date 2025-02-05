@@ -74,6 +74,12 @@ body {
     color: #2D4A22;
   }
   
+  #turnInfo {
+    font-weight: bold;
+    font-size: 20px;
+    color: #FF5733; /* Highlight the current player's turn */
+}
+
   .game-grid {
     display: grid;
     gap: 10px;
